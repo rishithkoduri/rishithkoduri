@@ -1,4 +1,4 @@
-# ⚡ System.Init() // Hello, I'm Rishith Koduri
+# ⚡ System.Init() // 👋 Hello, I'm Rishith Koduri
 
 **Full-Stack Developer | Deep Learning Researcher | AI Engineer**
 
@@ -37,5 +37,7 @@ I bridge the gap between high-performance web architecture and advanced machine 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishithkoduri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050b14" alt="GitHub Stats" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishithkoduri&theme=tokyonight&hide_border=true&background=050b14)](https://github.com/rishithkoduri)
+
 </div>
